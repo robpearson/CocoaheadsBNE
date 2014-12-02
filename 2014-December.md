@@ -13,7 +13,7 @@
 # Agenda
 
 * Monthly News
-* @JohnBristowe talks about Telerik's iOS Platform
+* ~~@JohnBristowe talks about Telerik's iOS Platform~~
 * @FollowBen talks about Instruments
 * @lachlanroche talks about build scripts
 * @GabrielHauber talks about Interface Builder
