@@ -28,7 +28,41 @@
 
 ---
 
-# WHAT
+# WHAT - App Extensions
+
+* Not an App
+* **Container** App
+* **Host** App
+
+---
+
+# Lifecycle
+
+1. User choses App Extension
+2. System Launches App Extension
+3. App Exention Code Runs
+4. System Kills App Extension
+
+---
+
+# Communication
+
+* Host App <-> App Extension :+1:
+* Containing App <-> App Extension:-1:
+* Not the wholes story
+
+---
+
+# Restrictions
+
+* Access a sharedApplication object :-1:
+* Access the camera or microphone :-1:
+* Long running background tasks :-1:
+* Receive data from AirDrop :-1:
+
+---
+
+# WHAT - Today Extensions
 
 * Called widgets
 * Host App is Today View
