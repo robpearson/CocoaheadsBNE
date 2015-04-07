@@ -1,4 +1,4 @@
-# App Marketing
+# Everyday App Marketing
 
 ### 7 April 2015
 ### @robpearson
@@ -156,5 +156,3 @@
 ---
 
 # Questions
-
----
