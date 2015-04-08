@@ -65,15 +65,12 @@
 # Marketing Plan
 
 1. Advertising
-1. Get Featured by Apple
-1. Get Featured by Non-Apple
+1. Get Featured
 1. Hustle
 1. Expand Target Market
-1. App Website
+1. App Website + Content Marketing (Blog)
 1. App Store Optimization (ASO)
-1. Content Marketing (Blog)
-1. Social Media
-1. Contest
+1. Social Media + Contests
 
 ---
 
@@ -116,18 +113,18 @@
 
 ---
 
+# Content Marketing (Blog)
+
+^ Start blogging to generate overall interest
+^ Give back to the community
+
+---
+
 # App Store Optimization (ASO)
 
 ^ Good feedback on description and screenshots
 ^ App Store Video Preview
 ^ Improve app store keywords etc
-
----
-
-# Content Marketing (Blog)
-
-^ Start blogging to generate overall interest
-^ Give back to the community
 
 ---
 
@@ -137,7 +134,7 @@
 
 ---
 
-# Contest
+# Contests
 
 ^ Apple Watch Giveaways
 
