@@ -1,6 +1,6 @@
 # Everyday View Models
 
-### 3 February 2015
+### DD MMM 2015
 ### @robpearson
 
 ---
