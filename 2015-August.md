@@ -15,6 +15,16 @@ autoscale: true
 
 ---
 
+# RCL Accellerator
+
+* Funding 5 startups 20k for 3% equity
+* Full time desk space for the team at RCL
+* 3-month journey through the accelerator.
+
+http://accelerator.rivercitylabs.net
+
+---
+
 # [fit] Agenda
 
 ---
