@@ -5,7 +5,7 @@ autoscale: true
 ### @robpearson
 #### Photo Credit: flickr.com/spugster
 
-![fit](Brisbane-TimBellete-01.jpg)
+![fit](Brisbane-TimBellete-01-small.jpeg)
 
 ---
 
@@ -23,6 +23,13 @@ autoscale: true
 - Simon Raboczi will demo the new Apple TV!
 - Eoin (@eoinmcc) will talk about the creative design process at Hydric Media!
 - Sam Rochester from Fitmap will demo PubNub and how they use it in their new iOS app!
+
+---
+
+# Brisbane Tech Drinks
+## 17-December @ 5PM
+## Grand Central Hotel - Platform Bar
+### Bar Tab Sponsored by YOW!
 
 ---
 
